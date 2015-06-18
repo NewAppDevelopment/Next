@@ -14,6 +14,8 @@
 		6E95AFFE1B32FCEC00E9D4CE /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6E95AFFD1B32FCEC00E9D4CE /* Images.xcassets */; };
 		6E95B0011B32FCEC00E9D4CE /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 6E95AFFF1B32FCEC00E9D4CE /* LaunchScreen.xib */; };
 		6E95B00D1B32FCEC00E9D4CE /* SimpleAppTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 6E95B00C1B32FCEC00E9D4CE /* SimpleAppTests.m */; };
+		6E95B0191B32FD7200E9D4CE /* KarthikAdded.m in Sources */ = {isa = PBXBuildFile; fileRef = 6E95B0171B32FD7200E9D4CE /* KarthikAdded.m */; };
+		6E95B01A1B32FD7200E9D4CE /* KarthikAdded.xib in Resources */ = {isa = PBXBuildFile; fileRef = 6E95B0181B32FD7200E9D4CE /* KarthikAdded.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +42,9 @@
 		6E95B0061B32FCEC00E9D4CE /* SimpleAppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SimpleAppTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		6E95B00B1B32FCEC00E9D4CE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		6E95B00C1B32FCEC00E9D4CE /* SimpleAppTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SimpleAppTests.m; sourceTree = "<group>"; };
+		6E95B0161B32FD7200E9D4CE /* KarthikAdded.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KarthikAdded.h; sourceTree = "<group>"; };
+		6E95B0171B32FD7200E9D4CE /* KarthikAdded.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KarthikAdded.m; sourceTree = "<group>"; };
+		6E95B0181B32FD7200E9D4CE /* KarthikAdded.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = KarthikAdded.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +90,9 @@
 				6E95AFF51B32FCEC00E9D4CE /* AppDelegate.m */,
 				6E95AFF71B32FCEC00E9D4CE /* ViewController.h */,
 				6E95AFF81B32FCEC00E9D4CE /* ViewController.m */,
+				6E95B0161B32FD7200E9D4CE /* KarthikAdded.h */,
+				6E95B0171B32FD7200E9D4CE /* KarthikAdded.m */,
+				6E95B0181B32FD7200E9D4CE /* KarthikAdded.xib */,
 				6E95AFFA1B32FCEC00E9D4CE /* Main.storyboard */,
 				6E95AFFD1B32FCEC00E9D4CE /* Images.xcassets */,
 				6E95AFFF1B32FCEC00E9D4CE /* LaunchScreen.xib */,
@@ -200,6 +208,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				6E95AFFC1B32FCEC00E9D4CE /* Main.storyboard in Resources */,
+				6E95B01A1B32FD7200E9D4CE /* KarthikAdded.xib in Resources */,
 				6E95B0011B32FCEC00E9D4CE /* LaunchScreen.xib in Resources */,
 				6E95AFFE1B32FCEC00E9D4CE /* Images.xcassets in Resources */,
 			);
@@ -220,6 +229,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				6E95AFF91B32FCEC00E9D4CE /* ViewController.m in Sources */,
+				6E95B0191B32FD7200E9D4CE /* KarthikAdded.m in Sources */,
 				6E95AFF61B32FCEC00E9D4CE /* AppDelegate.m in Sources */,
 				6E95AFF31B32FCEC00E9D4CE /* main.m in Sources */,
 			);
